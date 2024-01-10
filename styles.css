@@ -1,0 +1,32 @@
+html{
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(41, 134, 196);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-transform: uppercase;
+    text-align: center;
+}
+
+ul{
+    background-color: rgba(0, 255, 255, 0.589);
+    border-radius: 25px;
+    border: 2px solid black;
+    height: 50vh;
+    list-style: none;
+    padding: 20px;
+    font-size: 25px;
+}
+
+li a{
+    text-decoration: none;
+    color: white;
+}
+
+li a:hover{
+    color: blue;
+}
